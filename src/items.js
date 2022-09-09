@@ -7,8 +7,9 @@ import audio1 from "../media/images/1.mp3"
 import audio2 from "../media/images/2.mp3"
 import audio3 from "../media/images/3.mp3"
 
-
-
+/*
+все получилось кроме видео
+*/
 export default [
   {
     resource: image1,
